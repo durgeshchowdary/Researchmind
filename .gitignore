@@ -1,0 +1,12 @@
+.next/
+node_modules/
+__pycache__/
+.pytest_cache/
+.venv/
+.env
+*.pyc
+backend/data/uploads/*
+backend/data/indexes/*
+backend/data/*.db
+!backend/data/seed/
+!backend/data/seed/*

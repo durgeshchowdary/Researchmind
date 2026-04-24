@@ -1,0 +1,495 @@
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+ ⨯ ./app/globals.css:30:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 28 | [39m
+ [90m 29 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 30 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 31 | [39m[33m}[39m
+ [90m 32 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ [TypeError: Cannot read properties of undefined (reading '/_app')]
+[TypeError: Cannot read properties of undefined (reading '/_app')]
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError
+ ⨯ ./app/globals.css:31:3
+Syntax error: C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css The `bg-primary-soft` class does not exist. If `bg-primary-soft` is a custom class, make sure it is defined within a `@layer` directive.
+
+ [90m 29 | [39m
+ [90m 30 | [39m[33m.evidence-mark[39m [33m{[39m
+[1m[31m>[39m[22m[90m 31 | [39m  [36m@apply[39m rounded-md bg-primary-soft px-1.5 py-0.5 font-medium text-primary-hover[33m;[39m
+ [90m    | [39m  [1m[31m^[39m[22m
+ [90m 32 | [39m[33m}[39m
+ [90m 33 | [39m
+<w> [webpack.cache.PackFileCacheStrategy] Skipped not serializable cache item 'Compilation/modules|C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\css-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[2]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\node_modules\next\dist\build\webpack\loaders\postcss-loader\src\index.js??ruleSet[1].rules[14].oneOf[10].use[3]!C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\frontend\app\globals.css': No serializer registered for PostCSSSyntaxError
+<w> while serializing webpack/lib/cache/PackFileCacheStrategy.PackContentItems -> webpack/lib/NormalModule -> webpack/lib/ModuleBuildError -> PostCSSSyntaxError

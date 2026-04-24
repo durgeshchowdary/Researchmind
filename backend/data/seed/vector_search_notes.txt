@@ -1,0 +1,5 @@
+Vector search maps text chunks into dense numerical embeddings so semantically related passages sit near one another in embedding space.
+
+FAISS is commonly used for efficient similarity search over those embeddings. Cosine similarity can be approximated with inner product when vectors are normalized.
+
+Embeddings are especially helpful when user questions use different wording than the original documents.

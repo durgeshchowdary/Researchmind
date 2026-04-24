@@ -1,0 +1,60 @@
+
+> researchmind-frontend@0.1.0 dev
+> next dev
+
+   ▲ Next.js 15.5.15
+   - Local:        http://localhost:3000
+   - Network:      http://192.168.0.169:3000
+   - Environments: .env.local
+
+ ✓ Starting...
+ ✓ Ready in 2.1s
+ ○ Compiling / ...
+ ✓ Compiled / in 3.6s (647 modules)
+ GET / 200 in 4073ms
+ ○ Compiling /dashboard ...
+ ✓ Compiled /dashboard in 559ms (667 modules)
+ GET /dashboard 200 in 882ms
+ GET /dashboard 200 in 157ms
+ ○ Compiling /login ...
+ ✓ Compiled /login in 680ms (667 modules)
+ GET /login?next=%2Fdashboard 200 in 840ms
+ ○ Compiling /signup ...
+ ✓ Compiled /signup in 669ms (681 modules)
+ GET /signup 200 in 823ms
+ GET /login 200 in 69ms
+ GET /signup 200 in 59ms
+ GET /dashboard 200 in 71ms
+ ○ Compiling /search ...
+ ✓ Compiled /search in 768ms (690 modules)
+ GET /search 200 in 926ms
+ ○ Compiling /ask ...
+ ✓ Compiled /ask in 687ms (708 modules)
+ GET /ask 200 in 842ms
+ GET /ask 200 in 55ms
+ ○ Compiling /documents ...
+ ✓ Compiled /documents in 1171ms (728 modules)
+ GET /documents 200 in 1310ms
+ ○ Compiling /upload ...
+ ✓ Compiled /upload in 1296ms (740 modules)
+ GET /upload 200 in 1477ms
+ GET /dashboard 200 in 61ms
+ ○ Compiling /_error ...
+ GET /dashboard 500 in 7923ms
+ GET /dashboard 500 in 53ms
+ GET /dashboard 500 in 95ms
+ GET /dashboard 500 in 37ms
+ ✓ Compiled /_error in 218ms (623 modules)
+ GET /dashboard 500 in 30ms
+ GET /dashboard 500 in 20ms
+ GET /dashboard 500 in 168ms
+ GET /dashboard 500 in 40ms
+ GET /dashboard 500 in 115ms
+ GET /dashboard 500 in 34ms
+ GET /dashboard 500 in 116ms
+ GET /dashboard 500 in 33ms
+ GET /dashboard 500 in 111ms
+ GET /dashboard 500 in 36ms
+ GET /dashboard 500 in 109ms
+ GET /dashboard 500 in 32ms
+ ✓ Compiled in 591ms (623 modules)

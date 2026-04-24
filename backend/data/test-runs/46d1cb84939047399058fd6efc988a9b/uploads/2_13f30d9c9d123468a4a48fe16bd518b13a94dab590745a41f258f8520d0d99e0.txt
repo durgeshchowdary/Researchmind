@@ -1,0 +1,1 @@
+Hybrid retrieval uses keyword and vector evidence.

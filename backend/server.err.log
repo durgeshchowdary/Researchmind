@@ -1,0 +1,7 @@
+INFO:     Started server process [21708]
+INFO:     Waiting for application startup.
+2026-04-24 13:21:34,603 | INFO | app.main | Pre-loading embedding model...
+2026-04-24 13:21:34,604 | INFO | app.services.embedding_service | Embedding model will load lazily on first semantic request.
+2026-04-24 13:21:34,606 | INFO | app.main | Startup check | env=development | db_path=C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\backend\data\researchmind.db | db_ready=True | uploads_path=C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\backend\data\uploads | index_path=C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\backend\data\indexes | temp_path=C:\Users\DURGESH CHOWDARY\Desktop\Search Engine AI\researchmind\backend\data\tmp | embedding_model=sentence-transformers/all-MiniLM-L6-v2 | embedding_ready=False | embedding_status=not_loaded
+INFO:     Application startup complete.
+INFO:     Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)

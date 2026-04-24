@@ -1,0 +1,16 @@
+[
+  {
+    "question": "What is hybrid retrieval?",
+    "expected_terms": ["BM25", "semantic search", "vector", "keyword"],
+    "expected_document_titles": [],
+    "expected_citation_chunk_ids": [],
+    "ideal_answer_summary": "Hybrid retrieval combines lexical keyword ranking with vector or semantic similarity."
+  },
+  {
+    "question": "Why should grounded answers include citations?",
+    "expected_terms": ["evidence", "citation", "source", "chunk"],
+    "expected_document_titles": [],
+    "expected_citation_chunk_ids": [],
+    "ideal_answer_summary": "Grounded answers should point to supporting source chunks so claims can be inspected."
+  }
+]
